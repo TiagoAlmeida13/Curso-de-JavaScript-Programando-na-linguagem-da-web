@@ -1,1 +1,1 @@
-Curso de JavaScript: Programando na linguagem da web | ALURA
+## Curso de JavaScript: Programando na linguagem da web | ALURA
